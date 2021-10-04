@@ -1,7 +1,7 @@
-👋  Hi there!
+Hi there!
 
-- 💞️  I'm a recent CS grad whose main areas of interest are Music, Artificial Intelligence, and Cybersecurity
-- 👀  I'm currently seeking a role as a Software Developer, and I'm looking forward to making a difference as part of a great team
-- 📫  You can reach me at john@johnreynolds3d.com
+-  I'm a computer science graduate whose main areas of interest are artificial intelligence, generative design, and music
+-  I'm currently seeking a role as a software developer, and I'm looking forward to making a difference as part of a great team
+-  You can reach me at john@johnreynolds3d.com
 
 Cheers!
